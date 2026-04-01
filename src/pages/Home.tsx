@@ -81,7 +81,7 @@ const dealerData = [
   },
   {
     category: "Other Essentials",
-    items: ["Polycarbon (Naturelite)", "Goat Mat", "Dog Mat", "Watertank", "Drums", "Barrel", "Etc"]
+    items: ["Polycarbon (Naturelite)", "Goat Mat", "Dog Mat", "Watertank", "Drums", "Barrel"]
   }
 ];
 
@@ -150,7 +150,7 @@ export default function Home() {
         <div className="absolute inset-0 z-0">
           {/* Desktop Image */}
           <img 
-            src="https://cdn.pixabay.com/photo/2015/04/01/12/13/elephant-702307_640.jpg" 
+            src="https://wallpapers.com/images/featured/elephant-laptop-q3nfxlsda8kdywfp.jpg" 
             alt="Hero Background Desktop" 
             className="hidden lg:block w-full h-full object-cover"
             referrerPolicy="no-referrer"
