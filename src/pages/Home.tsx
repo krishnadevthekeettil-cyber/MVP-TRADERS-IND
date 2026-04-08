@@ -157,7 +157,7 @@ export default function Home() {
           />
           {/* Mobile Image */}
           <img 
-            src="https://cdn.pixabay.com/photo/2024/11/12/06/28/ai-generated-9191388_1280.jpg" 
+            src="https://pbs.twimg.com/media/GvYDDLqbMAAmj_a.jpg" 
             alt="Hero Background Mobile" 
             className="block lg:hidden w-full h-full object-cover"
             referrerPolicy="no-referrer"
