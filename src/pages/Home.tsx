@@ -150,7 +150,7 @@ export default function Home() {
         <div className="absolute inset-0 z-0">
           {/* Desktop Image */}
           <img 
-            src="https://wallpapers.com/images/featured/elephant-laptop-q3nfxlsda8kdywfp.jpg" 
+            src="https://img.freepik.com/premium-photo/variety-red-tools-hardware-artistic-arrangement-with-copy-space-red-background_996993-54709.jpg?semt=ais_hybrid&w=740&q=80" 
             alt="Hero Background Desktop" 
             className="hidden lg:block w-full h-full object-cover"
             referrerPolicy="no-referrer"
