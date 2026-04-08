@@ -157,7 +157,7 @@ export default function Home() {
           />
           {/* Mobile Image */}
           <img 
-            src="https://pbs.twimg.com/media/GvYDDLqbMAAmj_a.jpg" 
+            src="https://pbs.twimg.com/media/GUreo8ibsAAeq0v.jpg" 
             alt="Hero Background Mobile" 
             className="block lg:hidden w-full h-full object-cover"
             referrerPolicy="no-referrer"
