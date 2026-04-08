@@ -157,7 +157,7 @@ export default function Home() {
           />
           {/* Mobile Image */}
           <img 
-            src="https://wallpapercave.com/wp/wp8414123.jpg" 
+            src="https://wallpapershome.com/images/pages/pic_v/4777.jpg" 
             alt="Hero Background Mobile" 
             className="block lg:hidden w-full h-full object-cover"
             referrerPolicy="no-referrer"
@@ -180,7 +180,7 @@ export default function Home() {
             <h1 className="text-4xl sm:text-5xl lg:text-7xl font-black mb-8 lg:mb-12 leading-[1.1] font-display tracking-tight">
               <span className="lg:hidden bg-clip-text text-transparent bg-cover bg-center block text-7xl sm:text-8xl font-black tracking-tighter" 
                 style={{ 
-                  backgroundImage: 'url("https://htmlcolorcodes.com/assets/images/colors/bright-blue-color-solid-background-1920x1080.png")',
+                  backgroundImage: 'url("https://www.itakeyou.co.uk/wp-content/uploads/2020/04/color-combos-orange.jpg")',
                   filter: 'drop-shadow(0 0 1px rgba(255,255,255,0.3))'
                 }}>
                 MVP TRADERS
