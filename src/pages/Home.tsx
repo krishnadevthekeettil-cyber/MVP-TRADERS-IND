@@ -157,7 +157,7 @@ export default function Home() {
           />
           {/* Mobile Image */}
           <img 
-            src="https://img.freepik.com/premium-vector/drawing-building-with-red-crane-building-background_1013341-161071.jpg" 
+            src="https://i.pinimg.com/736x/d0/e8/d1/d0e8d1fba2c55fd57d51c183b3da2d2b.jpg" 
             alt="Hero Background Mobile" 
             className="block lg:hidden w-full h-full object-cover"
             referrerPolicy="no-referrer"
