@@ -157,7 +157,7 @@ export default function Home() {
           />
           {/* Mobile Image */}
           <img 
-            src="https://img.freepik.com/free-vector/caution-alert-safety-background-with-blank-space-vector_1017-45794.jpg?semt=ais_hybrid&w=740&q=80" 
+            src="https://img.freepik.com/premium-vector/drawing-building-with-red-crane-building-background_1013341-161071.jpg" 
             alt="Hero Background Mobile" 
             className="block lg:hidden w-full h-full object-cover"
             referrerPolicy="no-referrer"
