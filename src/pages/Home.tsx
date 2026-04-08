@@ -180,7 +180,7 @@ export default function Home() {
             <h1 className="text-4xl sm:text-5xl lg:text-7xl font-black mb-8 lg:mb-12 leading-[1.1] font-display tracking-tight">
               <span className="lg:hidden bg-clip-text text-transparent bg-cover bg-center block text-7xl sm:text-8xl font-black tracking-tighter" 
                 style={{ 
-                  backgroundImage: 'url("https://www.color-hex.com/palettes/10807.png")',
+                  backgroundImage: 'url("https://thumbs.dreamstime.com/b/vector-construction-pattern-construction-seamless-background-vector-illustration-vector-construction-pattern-construction-seamless-113988675.jpg")',
                   filter: 'drop-shadow(0 0 1px rgba(255,255,255,0.3))'
                 }}>
                 MVP TRADERS
