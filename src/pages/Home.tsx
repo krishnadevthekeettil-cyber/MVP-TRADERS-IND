@@ -150,14 +150,14 @@ export default function Home() {
         <div className="absolute inset-0 z-0">
           {/* Desktop Image */}
           <img 
-            src="https://img.freepik.com/premium-photo/variety-red-tools-hardware-artistic-arrangement-with-copy-space-red-background_996993-54709.jpg?semt=ais_hybrid&w=740&q=80" 
+            src="https://wallpapers.com/images/featured/elephant-laptop-q3nfxlsda8kdywfp.jpg" 
             alt="Hero Background Desktop" 
             className="hidden lg:block w-full h-full object-cover"
             referrerPolicy="no-referrer"
           />
           {/* Mobile Image */}
           <img 
-            src="https://i.pinimg.com/736x/d0/e8/d1/d0e8d1fba2c55fd57d51c183b3da2d2b.jpg" 
+            src="https://wallpapercave.com/wp/wp8414123.jpg" 
             alt="Hero Background Mobile" 
             className="block lg:hidden w-full h-full object-cover"
             referrerPolicy="no-referrer"
@@ -180,7 +180,7 @@ export default function Home() {
             <h1 className="text-4xl sm:text-5xl lg:text-7xl font-black mb-8 lg:mb-12 leading-[1.1] font-display tracking-tight">
               <span className="lg:hidden bg-clip-text text-transparent bg-cover bg-center block text-7xl sm:text-8xl font-black tracking-tighter" 
                 style={{ 
-                  backgroundImage: 'url("https://img.freepik.com/premium-photo/comprehensive-arrangement-various-tools-hardware-components-vibrant-red-background_1062371-46446.jpg?semt=ais_incoming&w=740&q=80")',
+                  backgroundImage: 'url("https://c4.wallpaperflare.com/wallpaper/273/1/78/colors-boom-dark-background-blast-powder-explosion-hd-wallpaper-preview.jpg")',
                   filter: 'drop-shadow(0 0 1px rgba(255,255,255,0.3))'
                 }}>
                 MVP TRADERS
